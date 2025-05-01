@@ -3,7 +3,6 @@ Music-Player by using HTML , CSS and JS .
 
 ![Image](https://github.com/user-attachments/assets/86529a1c-5e0b-489d-a1e1-2b2f2e8559b1)
 
-![video](https://github.com/user-attachments/assets/443d54ff-548c-4b07-a9cb-d0e29840c4b6)
 
 ![Image](https://github.com/user-attachments/assets/bb7281b1-d05b-4de8-9708-4d921c419f8f)
 
